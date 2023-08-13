@@ -16,7 +16,7 @@
 ---
 
 - I’m currently working at China Life Insurance as an intern.
-- I’m currently learning C++ and database systems.
+- I’m currently learning Java and things related to full-stack.
 - I'm an incoming ECE graduate student at The University of Washington. <strong><i>Go Huskies</i></strong>
 
 
