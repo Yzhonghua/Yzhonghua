@@ -22,5 +22,3 @@
 
 ![Git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yzhonghua&card_width=240&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
