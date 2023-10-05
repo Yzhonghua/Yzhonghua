@@ -15,7 +15,7 @@
 
 ---
 
-I'm an ECE graduate student at The University of Washington. <strong><i>Go Huskies</i></strong>
+I'm an ECE graduate student at The University of Washington. Thank you Allen school! <strong><i>Go Huskies</i></strong>
 
 
 
